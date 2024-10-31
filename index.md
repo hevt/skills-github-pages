@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to my Blog!
 ---
 
+# Test Heading
+
+## Test subheading
